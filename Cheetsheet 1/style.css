@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+}
+
+header ul li{
+    display: inline;
+
+}
+
+table{
+    border: solid 1px black;
+}
+.forms table td, th{
+    border: solid 1px black;
+     
+}
