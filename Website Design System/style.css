@@ -1,0 +1,100 @@
+html{
+    margin: 0 10%;
+    font-family: 'Roboto', sans-serif;
+    background-color: beige;
+}
+
+
+.container{
+    border: 1px solid rgb(60, 57, 57);
+    padding: 20px;
+    margin: 20px auto;
+    background-color: white;
+}
+p{
+    display: block;
+
+}
+
+/* colors design  */
+.color-panel{
+    display: inline-block;
+    text-align: center;
+    width: 250px ;
+    height: 100px;
+    margin: 15px 5px;
+}
+
+
+.colors .light-blue{
+    background-color: #E9F1FA;
+   
+}
+.colors .bright-blue{
+    color: white;
+    background-color: #00ABE4;
+}
+
+.colors .dark-blue{
+    color: white;
+    background-color: #1A2E3B;
+}
+
+.colors .light-grey{
+    background-color: #F2F2F2;
+}
+
+.colors .dark-grey{
+    color: white;
+    background-color: #4A4A4A;
+}
+.colors .beige{
+    background-color: #DDD0C8;
+}
+
+
+
+/* Fonts Design  */
+.font-panel{
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    margin: 15px 5px;
+    height: 150px;
+    border: 1px solid rgb(60, 57, 57);
+}
+
+.heading{
+    font-family: 'Oswald', serif;
+    font-weight: 600;
+    text-decoration: underline;
+    font-size: 22px;
+}
+
+.heading  a:visited{
+    color: black;
+}
+
+.heading a:hover{
+    color: #00ABE4;
+}
+.forum{
+    font-family: 'forum', cursive;
+    font-weight: 400;
+    position: relative;
+    bottom: 35px;
+}
+
+.barlow{
+    font-family: 'Barlow', sans-serif;
+    font-weight: 400;
+}
+
+.barlow .bold,.merriweather .bold{
+    font-weight: 700;
+}
+.merriweather{
+    font-family: 'Merriweather', serif;
+    font-weight: 400;
+}
+
